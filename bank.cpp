@@ -54,7 +54,7 @@ public:
         }
         else
         {
-            cout << "amount cant be withdrawn";
+            cout << "sorry , money cant be withdrawn";
         }
     }
     void display() //function for saving
